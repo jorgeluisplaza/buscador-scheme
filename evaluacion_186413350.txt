@@ -1,0 +1,15 @@
+createIndex: 1
+index?: 1
+getTitulo: 0.5
+getAutor: 0.5
+getBilbiografia: 0.5
+getTexto: 0.5
+Modificadores: 0
+esStopWords: 1
+funcion: 1
+estaEnlista: 1
+termQuery: 1
+phraseQuery: 1
+ranking: 0.75
+Results->String: 1
+lista->String: 1
